@@ -6,3 +6,5 @@ lattice.ipynb : basics informations about the CaCN2 lattice (vectors, reciprocal
 symmetry.ipynb : analysis of the symmetry about the CaCN2 lattice. You'll find the jsmol, if it's not visible on Git, in the JsmolSymétries file
 
 xrd.ipynb : analysis of diffraction peaks of CaCN2
+
+el_bands : analysis of the electronic bands and teh band gap of CaCN2
