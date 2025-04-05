@@ -9,4 +9,6 @@ xrd.ipynb : analysis of diffraction peaks of CaCN2
 
 el_bands : analysis of the electronic bands and the band gap of CaCN2
 
-ph__bands : analysis of the bands of phonon of CaCN2
+ph_bands : analysis of the bands of phonon of CaCN2
+
+ph_dos : analysis of the density of phonon of CaCN2
