@@ -7,7 +7,8 @@ symmetry.ipynb : analysis of the symmetry about the CaCN2 lattice. You'll find t
 
 xrd.ipynb : analysis of diffraction peaks of CaCN2
 
-el_bands : analysis of the electronic bands and the band gap of CaCN2
+el_bands : analysis of the electronic bands and the band gap of CaCN2. Use the corrected version instead
+el_bands_correction : analysis of the electronic bands and the band gap of CaCN2
 
 ph_bands : analysis of the bands of phonon of CaCN2
 
